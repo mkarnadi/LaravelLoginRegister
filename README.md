@@ -1,4 +1,4 @@
-# laravelloginregister
+# Laravel Form login register
 
 <br> Ini adalah form login register yang disediakan oleh 
 
